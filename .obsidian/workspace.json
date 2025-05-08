@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "ff1182e4e9eb6f27",
+    "type": "split",
+    "children": [
+      {
+        "id": "829a024a4ad36a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b7ce0550c0c4d13",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4d7daa6d357d6f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Title.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Title"
+            }
+          },
+          {
+            "id": "42a006a3c649f13d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1a417b8503ee629e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final exam prep-Secure Coding/Objects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objects"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3c0964c9933c63c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6488e9fea9fdf409",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ddc38019506c783",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "68d7175a6576673a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ac5e294bf4c9d8c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e9ac41feafbb690",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6b5ac4dc9699ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8ea70b5f57a7425",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Final exam prep-Secure Coding/Class Models- Classes and Business Entities-Chapter 8.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Class Models- Classes and Business Entities-Chapter 8"
+            }
+          },
+          {
+            "id": "fa200ce2bb94bbaa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Final exam prep-Secure Coding/Class Models- Classes and Business Entities-Chapter 8.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Class Models- Classes and Business Entities-Chapter 8"
+            }
+          },
+          {
+            "id": "22e1daf1030a5d64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5dbf20162255c99e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Final exam prep-Secure Coding/Class Models- Classes and Business Entities-Chapter 8.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Class Models- Classes and Business Entities-Chapter 8"
+            }
+          },
+          {
+            "id": "644b469cd08af28e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4b7ce0550c0c4d13",
+  "lastOpenFiles": [
+    "Final exam prep-Secure Coding/Class Models- Classes and Business Entities-Chapter 8.md",
+    "Templates/Title.md",
+    "Untitled.md",
+    "2025-05-08.md",
+    "Templates",
+    "Final exam prep-Secure Coding/Objects.md",
+    "object.md",
+    "Welcome.md",
+    "2025-05-06.md",
+    "create a link.md",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Final exam prep-Secure Coding"
+  ]
+}
