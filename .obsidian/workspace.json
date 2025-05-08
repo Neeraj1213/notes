@@ -11,10 +11,28 @@
             "id": "4b7ce0550c0c4d13",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Title.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Title"
+            }
+          },
+          {
+            "id": "01e6c650b9f3c12e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Setup Todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Setup Todo"
             }
           },
           {
@@ -55,7 +73,8 @@
               "title": "Objects"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,10 +232,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b7ce0550c0c4d13",
+  "active": "01e6c650b9f3c12e",
   "lastOpenFiles": [
-    "Final exam prep-Secure Coding/Class Models- Classes and Business Entities-Chapter 8.md",
     "Templates/Title.md",
+    "Obsidian Setup Todo.md",
+    "Final exam prep-Secure Coding/Class Models- Classes and Business Entities-Chapter 8.md",
     "Untitled.md",
     "2025-05-08.md",
     "Templates",
